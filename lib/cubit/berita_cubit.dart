@@ -18,3 +18,4 @@ class BeritaCubit extends Cubit<BeritaState> {
     emit(DataBerita(beritaModel));
   }
 }
+//#safrurozakycode

@@ -8,3 +8,4 @@ class BeritaRequest {
     return BeritaModel.fromJson(response.data);
   }
 }
+//#safrurozakycode

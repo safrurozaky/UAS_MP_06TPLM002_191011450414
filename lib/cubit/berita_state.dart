@@ -9,3 +9,4 @@ class DataBerita extends BeritaState {
   final BeritaModel data;
   DataBerita(this.data);
 }
+//#safrurozakycode
